@@ -1,3 +1,0 @@
-# projectA
-
-Web development ongoing.
